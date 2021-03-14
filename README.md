@@ -1,4 +1,4 @@
-<img src="https://github-readme-stats.vercel.app/api?username=jiuqi9997&show_icons=true&theme=radical" />
+<img src="https://github-readme-stats.vercel.app/api?username=jiuqi9997&show_icons=true" />
 
 ## About me
 
